@@ -1,10 +1,10 @@
-# dev-tools-detector
+# dev-tools-monitor
 
 Helpful in listening for opening of developer tools in any layout and also undocked position.
 
 # Installation
 
-    `npm i dev-tools-detector --save`
+    `npm i dev-tools-monitor --save`
 
 # Usage
 

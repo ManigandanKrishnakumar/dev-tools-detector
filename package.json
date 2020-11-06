@@ -1,5 +1,5 @@
 {
-  "name": "dev-tools-detector",
+  "name": "dev-tools-monitor",
   "version": "1.0.0",
   "description": "Helpful in listening for opening of developer tools in any layout and also undocked position.",
   "main": "index.js",

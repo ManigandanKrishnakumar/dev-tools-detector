@@ -9,9 +9,9 @@ Helpful in listening for opening of developer tools in any layout and also undoc
 # Usage
 
     ```
-    import {isDevToolsOpened} from 'dev-tools-detector';
+    import {isDevToolsOpened} from 'dev-tools-monitor';
 
-    console.log(isDevToolsOpened, Should return true or false);
+    console.log(isDevToolsOpened, 'Should return true or false');
     ```
 
 # Available Functions

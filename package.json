@@ -1,6 +1,6 @@
 {
   "name": "dev-tools-monitor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Helpful in listening for opening of developer tools in any layout and also undocked position.",
   "main": "index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "dev-tools-monitor",
   "version": "1.0.5",
-  "description": "Helpful in listening for opening of developer tools in any layout and also undocked position.",
+  "description": "An package which can be used with any Javascript frameworks such as Angular, React, Vue, Vanilla JS to detect developer console is Opened or listen for opening of the developer console even when it is docked or undocked.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,10 @@
     "developer",
     "tools",
     "detect",
-    "devtools"
+    "devtools",
+    "devtools-detect",
+    "devtools-monitor",
+    "monitor"
   ],
   "author": "Manigandan Krishnakumar",
   "license": "ISC",

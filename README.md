@@ -1,6 +1,6 @@
 # dev-tools-monitor
 
-Helpful in listening for opening of developer tools in any layout and also undocked position.
+An package which can be used with any Javascript frameworks such as Angular, React, Vue, Vanilla JS to detect developer console is Opened or listen for opening of the developer console even when it is docked or undocked.
 
 # Installation
 
@@ -35,4 +35,5 @@ Note : startDevToolsListener listener method will clear the console.
 1. Microsoft Edge
 2. Google Chrome
 3. Safari
-4. Firefox - Not yet supported
+4. Opera
+5. Firefox - Not yet supported
